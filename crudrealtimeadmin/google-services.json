@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1033096182789",
+    "project_id": "crud-realtime-client-82777",
+    "storage_bucket": "crud-realtime-client-82777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033096182789:android:00acbacc4ea21daa06706c",
+        "android_client_info": {
+          "package_name": "com.jakaa.crudrealtimeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033096182789-j03gn08btd40klv7iav6jvvjv5en5sj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfCKX-_Fl4dTr9VHahVkq2H395f_xYp9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033096182789-j03gn08btd40klv7iav6jvvjv5en5sj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033096182789:android:a3d7566b00bde1c006706c",
+        "android_client_info": {
+          "package_name": "com.jakaa.crudrealtimeclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033096182789-j03gn08btd40klv7iav6jvvjv5en5sj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfCKX-_Fl4dTr9VHahVkq2H395f_xYp9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033096182789-j03gn08btd40klv7iav6jvvjv5en5sj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
